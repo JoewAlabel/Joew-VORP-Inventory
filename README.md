@@ -12,7 +12,7 @@ My version of [VORP-Inventory](https://github.com/VORPCORE/VORP-Inventory)
 - Download the lastest version of [Joew-VORP-Inventory](https://github.com/JoewAlabel/Joew-VORP-Inventory/releases/latest)
 - Extract and replace the files in your ```vorp_inventory``` folder.
 - Set up the language you want in the file: ```Config.json```
-- Edit the language file ```languages\vorp_inventory\languages\en_lang.json``` or ```languages\vorp_inventory\languages\es_lang.json```:
+- Edit the language file ```vorp_inventory\languages\en_lang.json``` or ```vorp_inventory\languages\es_lang.json```:
 ```"Pickup": "Change Me"```
 - Enjoy!
 
